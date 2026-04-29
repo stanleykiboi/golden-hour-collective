@@ -1,6 +1,6 @@
 /* body */
 #main{
-    background-color: aquamarine;
+    background-color: rgb(198, 246, 247);
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0px;
     padding: 0px;
@@ -14,4 +14,53 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     color: black;
+}
+
+/* details */
+#details{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* swahili */
+.swahili{
+    font-style: italic;
+}
+
+/* acticity */
+#activities{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+/* activity */
+.activities{
+    text-align: center;
+    flex: auto;
+    
+}
+
+/* visiting sites */
+#visiting-sites{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* visiting-sites */
+.visiting-sites{
+    text-align: center;
+    width: 30%;
+}
+
+/* food type */
+#food-type{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* food-type */
+.food-type{
+    text-align: center;
+        width: 30%;
 }
