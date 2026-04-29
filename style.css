@@ -1,0 +1,17 @@
+/* body */
+#main{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header */
+#main-header{
+    background-color: lightgreen;
+    padding: 15px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
