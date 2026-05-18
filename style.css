@@ -35,6 +35,10 @@
     color: black;
 }
 
+.activities img{
+    width: 100px;
+}
+
 /* activity */
 .activities{
     text-align: center;
